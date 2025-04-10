@@ -1,0 +1,14 @@
+#setuptools==40.6.3
+numpy
+pandas
+pillow
+scikit-image
+scikit-learn
+scipy
+tqdm
+torch
+torchvision
+fastapi
+uvicorn
+python-multipart
+# matplotlib==3.0.2
